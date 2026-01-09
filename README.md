@@ -16,7 +16,3 @@ https://github.com/user-attachments/assets/c2aee33a-01fc-46ca-8286-c2156111c7b7
 - 🎨 Colorful, user-friendly terminal interface
 - 🧠 Smart menu with simple user input handling
 
-# Clone Repo
-
-```bash
-git clone https://github.com/VadaPavMan/Joker_Bot.git
